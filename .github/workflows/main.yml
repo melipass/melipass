@@ -14,4 +14,4 @@ jobs:
         env:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
-        uses: melipass/lastfm-to-markdown@v0.0.7
+        uses: melipass/lastfm-to-markdown@v0.0.8
