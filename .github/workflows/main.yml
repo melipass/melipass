@@ -11,4 +11,4 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: lastfm to markdown
-        uses: melipass/lastfm-to-markdown@1.0.2
+        uses: melipass/lastfm-to-markdown@v1.0.3
