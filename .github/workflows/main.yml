@@ -15,7 +15,6 @@ jobs:
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
-          IMAGE_COUNT: 5
       - name: commit changes
         continue-on-error: true
         run: |
