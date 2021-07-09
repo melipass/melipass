@@ -14,9 +14,12 @@ I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](htt
 <img src="hr.png" width="100%" height="5px">
 
 ## 🏅 Highlighted badges
-<p align="center">
+<p align="center" style="vertical-align:middle;">
   <a href="https://www.credly.com/badges/c8caff74-4c34-4211-affe-8bd7692771c8"><img src="https://images.credly.com/size/100x100/images/cf9b772d-7cf9-4c11-9aa7-46ab006f0ce6/IBM_Quantum_Challenge_2021_Achievement_V2.png"></a>
   <a href="https://www.credly.com/badges/52a4021b-34e6-413d-a4bd-cc29d3a686f6"><img src="https://images.credly.com/size/100x100/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png"></a>
   <a href="https://www.credly.com/badges/cfeca386-7b9d-487f-8e2b-b3cfa069c734"><img src="https://images.credly.com/size/100x100/images/ac4daa48-1924-4dc5-80cf-ede5a08bac51/Data_Science_Foundations_Specialization.png"></a>
   <a href="https://www.credly.com/badges/0372a945-8a67-4d57-9643-b46b8dbf2fa6"><img src="https://images.credly.com/size/100x100/images/4a5f4849-54ae-461f-97ad-cb9c9a04eb63/Adv_Data_Science_Specialization.png"></a>
+  <a href="https://google.qwiklabs.com/public_profiles/9fac59c2-c0f1-4b5c-b207-47c9cd7d6072"><img src="https://cdn.qwiklabs.com/GHzcYBb00JYUF9Rgf3D9A4inwRHYnFtISMvcRlb%2FClU%3D" width="100px"></a>
+  <a href="https://google.qwiklabs.com/public_profiles/9fac59c2-c0f1-4b5c-b207-47c9cd7d6072"><img src="https://cdn.qwiklabs.com/PQNx2ZWzsymDLNMYVZgXVTOixmLXKgXS4S7cB5aHesY%3D" width="100px"></a>
+  <a href="https://google.qwiklabs.com/public_profiles/9fac59c2-c0f1-4b5c-b207-47c9cd7d6072"><img src="https://cdn.qwiklabs.com/oJ68YJxOAkrezBSWMLSdZpIYgr5Cu5mztWuM1n5in%2Fs%3D" width="100px"></a>  
 </p>
