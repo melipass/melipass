@@ -7,7 +7,7 @@ I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](htt
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/76daa18638a94c5f81c0990454655584.png" title="Flobots - Survival Story"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/76daa18638a94c5f81c0990454655584.png" title="Flobots - Survival Story"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/46def4fa25d2821f092448be01e639ea.png" title="Florence + the Machine - Lungs"> </p>
 
 <p align="center">These covers are automatically updated from last.fm using a GitHub Actions workflow I wrote, <a href="https://github.com/marketplace/actions/lastfm-to-markdown">feel free to use it</a>.</p>
 
