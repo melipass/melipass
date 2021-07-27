@@ -7,7 +7,7 @@ I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](htt
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9715f15b9c7646f7c6bd919cb029fa7c.png" title="Flying Lotus - You're Dead!"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c173c6486e9841a8b148ae5030a1ebdf.png" title="Flying Lotus - Until the Quiet Comes"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/50227cde795b4702c7b4d7ddcf0b85ff.png" title="Flying Lotus - Cosmogramma"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c34e1968d7e8082fa0f42a9960976e4f.jpg" title="Foals - Holy Fire"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c34e1968d7e8082fa0f42a9960976e4f.jpg" title="Foals - Holy Fire"> </p>
 
 <p align="center">These covers are automatically updated from last.fm using a GitHub Actions workflow I wrote, <a href="https://github.com/marketplace/actions/lastfm-to-markdown">feel free to use it</a>.</p>
 
