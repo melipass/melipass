@@ -7,7 +7,7 @@ I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](htt
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c34e1968d7e8082fa0f42a9960976e4f.jpg" title="Foals - Holy Fire"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c34e1968d7e8082fa0f42a9960976e4f.jpg" title="Foals - Holy Fire"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> </p>
 
 <p align="center">These covers are automatically updated from last.fm using a GitHub Actions workflow I wrote, <a href="https://github.com/marketplace/actions/lastfm-to-markdown">feel free to use it</a>.</p>
 
