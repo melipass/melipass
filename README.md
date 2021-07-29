@@ -7,7 +7,7 @@ I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](htt
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c34e1968d7e8082fa0f42a9960976e4f.jpg" title="Foals - Holy Fire"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d16f4e6f52207a67eee7c5f4e7fc7681.jpg" title="Dua Lipa - Dua Lipa (Complete Deluxe Edition)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c34e1968d7e8082fa0f42a9960976e4f.jpg" title="Foals - Holy Fire"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e03c6fe59b86f66d1b04ed7a06b66d9c.png" title="杏里 - TIMELY!!"> </p>
 
 <p align="center">These covers are automatically updated from last.fm using a GitHub Actions workflow I wrote, <a href="https://github.com/marketplace/actions/lastfm-to-markdown">feel free to use it</a>.</p>
 
