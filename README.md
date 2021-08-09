@@ -1,5 +1,5 @@
-# Welcome ✨
-Hello! My name is Melissa, I'm a Computer Science and Engineering student from Santiago, Chile.
+# Hola ✨
+Hi! My name is Melissa, my pronouns are she/her or they/them, and I'm a Computer Science and Engineering student from Santiago, Chile. I'm fluent in Spanish and English, and I'm also able to read Portuguese and Català.
 
 I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](https://github.com/walmartdigital/), and I'm also part of Universidad Mayor's [Quantum Computing research group](https://www.diariomayor.cl/ciencia-um/docentes-y-estudiantes-crean-el-primer-grupo-de-computacion-cuantica-u-mayor.html).
 
@@ -9,7 +9,7 @@ I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](htt
 <!-- lastfm -->
 <p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fafa8a0e7e903e35fe4062435e9dd8a3.jpg" title="Four Tet - New Energy"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e95ee67ffd47387b3621b821785471fd.jpg" title="Four Tet - Sixteen Oceans"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/913c418bc80f477ac7f58e352d3e960f.png" title="Four Tet - Dialogue"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d74d007b33004eb9ada7b784cbe5f2ee.png" title="Four Tet - Beautiful Rewind"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/49b103258e343de147bf4f90b522f809.jpg" title="Four Tet - Pause"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b18a7bf5b1354938c924ab0bc1d5bbde.png" title="Four Tet - Rounds"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2338d11b0bfd44099cbe5bc43ed79de0.png" title="Four Tet - Everything Ecstatic"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f8a7d719612b497cc949f226d4cb2bf6.png" title="Four Tet - There Is Love in You"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/246ad9c1e5a7cc3679eeafdb83b1c91b.jpg" title="Föllakzoid - I"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0d2c937a16004e2ccee0e452b549c475.png" title="Föllakzoid - III"> </p>
 
-<p align="center">These covers are automatically updated from last.fm using a GitHub Actions workflow I wrote, <a href="https://github.com/marketplace/actions/lastfm-to-markdown">feel free to use it</a>.</p>
+<p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
 <img src="hr.png" width="100%" height="5px">
 
