@@ -3,7 +3,7 @@ Hi! My name is Melissa, my pronouns are she/her or they/them, and I'm a Computer
 
 Currently working on High Performance Computing for Quantum Physics at the [Herrera Lab](http://fherreralab.com/). In the past, I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](https://github.com/walmartdigital/), and I'm also part of Universidad Mayor's [Quantum Computing research group](https://www.diariomayor.cl/ciencia-um/docentes-y-estudiantes-crean-el-primer-grupo-de-computacion-cuantica-u-mayor.html).
 
-I'm passionate about cloud computing, data engineering, site reliability engineering, data science and quantum computing. Right now, I'm trying to improve at container orchestration, parallel computing and microservices.
+I'm passionate about cloud computing, data engineering, site reliability engineering, data science and quantum computing. Right now, I'm trying to improve at container orchestration, infrastructure as code, parallel computing and microservices.
 
 <img src="hr.png" width="100%" height="5px">
 
