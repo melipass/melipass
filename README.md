@@ -9,7 +9,7 @@ I'm passionate about cloud computing, data engineering, site reliability enginee
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2240e89751f449f7bf87800c18a30ce6.png" title="Galaxie 500 - On Fire"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/79c75e7536714fde89e6a040e35a91c8.png" title="Galaxie 500 - This Is Our Music"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d3e80f8205ce446cbfb11c22c92245e9.png" title="Galaxie 500 - Today"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2194c25f72a4d2dd5ef7fcc7025e8e7b.png" title="Gang of Four - Entertainment!"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2194c25f72a4d2dd5ef7fcc7025e8e7b.png" title="Gang of Four - Entertainment!"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2240e89751f449f7bf87800c18a30ce6.png" title="Galaxie 500 - On Fire"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/79c75e7536714fde89e6a040e35a91c8.png" title="Galaxie 500 - This Is Our Music"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d3e80f8205ce446cbfb11c22c92245e9.png" title="Galaxie 500 - Today"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/db381b8173924aec829f426a96a7e9b5.png" title="Gang of Four - Solid Gold"> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
