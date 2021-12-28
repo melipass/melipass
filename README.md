@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1fafeda431d24612c6b5fd3ba1e0ad3f.jpg" title="Buena Vista Social Club - Lost and Found"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a33c4a6f8d3b4571a820d7e9d47d915a.png" title="Beastie Boys - Hello Nasty"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1fafeda431d24612c6b5fd3ba1e0ad3f.jpg" title="Buena Vista Social Club - Lost and Found"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/085bd6c668454f70cfeb5792bd6bd198.jpg" title="David Byrne - David Byrne"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a33c4a6f8d3b4571a820d7e9d47d915a.png" title="Beastie Boys - Hello Nasty"> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
