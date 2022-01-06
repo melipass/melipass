@@ -1,7 +1,7 @@
 # Hola ✨
 Hi! My name is Melissa, my pronouns are she/her or they/them, and I'm a Computer Science and Engineering student from Santiago, Chile. I'm fluent in Spanish and English, and I'm also able to read Portuguese and Català.
 
-Currently working on High Performance Computing for Quantum Physics at the [Herrera Lab](http://fherreralab.com/). I'm also part of Universidad Mayor's [Quantum Computing research group](https://www.diariomayor.cl/ciencia-um/docentes-y-estudiantes-crean-el-primer-grupo-de-computacion-cuantica-u-mayor.html). In the past, I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](https://github.com/walmartdigital/).
+Currently working as a Software Engineer Intern at [Evernote](https://evernote.com/). I'm also part of Universidad Mayor's [Quantum Computing research group](https://www.diariomayor.cl/ciencia-um/docentes-y-estudiantes-crean-el-primer-grupo-de-computacion-cuantica-u-mayor.html). In the past, I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](https://github.com/walmartdigital/), and also worked on High Performance Computing for Quantum Physics at the [Herrera Lab](http://fherreralab.com/).
 
 I'm passionate about quantum computing, cloud (native) computing, data science, machine learning and data engineering. Right now, I'm trying to improve at container orchestration, infrastructure as code, parallel computing and microservices.
 
