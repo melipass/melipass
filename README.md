@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3c7c39f1dcdc011cffe81542abf644e8.jpg" title="The Gun Club - Miami"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9456d3a4efa4e34a67c4fe74664f201.png" title="The Gun Club - The Las Vegas Story"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3c7c39f1dcdc011cffe81542abf644e8.jpg" title="The Gun Club - Miami"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/dbb8d45e500042dab7de9e1c651250f4.png" title="The Gun Club - Mother Juno"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9456d3a4efa4e34a67c4fe74664f201.png" title="The Gun Club - The Las Vegas Story"> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
