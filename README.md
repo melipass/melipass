@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c0f9d3ec8ef14b69cbd3f6ad5cfc7ebe.jpg" title="The Herbaliser - Very Mercenary"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ef5ea289642f45939fbd09fe2f3ed0af.png" title="Helios - Eingya"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/36adb5886e230e682c0f8368dd1c040c.jpg" title="Heccra - The Devil-Faces of My Old Friends, Beneath Me"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/df792a0746744a928cfd583cfe8bd7ad.png" title="Hercules and Love Affair - Blue Songs"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/6417b470f42e4ce0cce5095c66dd1f15.jpg" title="Heccra - Heccra-Kazooie"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c0f9d3ec8ef14b69cbd3f6ad5cfc7ebe.jpg" title="The Herbaliser - Very Mercenary"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ef5ea289642f45939fbd09fe2f3ed0af.png" title="Helios - Eingya"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/df792a0746744a928cfd583cfe8bd7ad.png" title="Hercules and Love Affair - Blue Songs"> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
