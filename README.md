@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c0f9d3ec8ef14b69cbd3f6ad5cfc7ebe.jpg" title="The Herbaliser - Very Mercenary"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/df792a0746744a928cfd583cfe8bd7ad.png" title="Hercules and Love Affair - Blue Songs"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c0f9d3ec8ef14b69cbd3f6ad5cfc7ebe.jpg" title="The Herbaliser - Very Mercenary"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/df792a0746744a928cfd583cfe8bd7ad.png" title="Hercules and Love Affair - Blue Songs"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4d533a269582411ea5958b642013bd9d.jpg" title="Hey Paulette - I Really Do Love Penelope"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/98312e76086d4cb53b6204f9f9c6364e.jpg" title="Hildur Guðnadóttir - Chernobyl (Music from the Original TV Series)"> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
