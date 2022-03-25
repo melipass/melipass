@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9196a46c5993ae2bf86ec10487dcdb90.jpg" title="Ashnikko - DEMIDEVIL"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bbc86524f7e514b5972e7543d7dbc7b8.jpg" title="Javiera Mena - Mena"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5071b7d71a38479d9e37fb0630af8d41.png" title="The Herbaliser - Remedies"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/cdbdd328cdaa4fefcf0f37e490f29c26.png" title="Javiera Mena - Otra Era"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9196a46c5993ae2bf86ec10487dcdb90.jpg" title="Ashnikko - DEMIDEVIL"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bbc86524f7e514b5972e7543d7dbc7b8.jpg" title="Javiera Mena - Mena"> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
