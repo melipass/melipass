@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a21d06762b474e5ecec50916715ecfa3.png" title="Milton Nascimento & Lô Borges - Clube Da Esquina"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/efe85e4b28614817c83f4f272f4b2cb3.png" title="Hercules and Love Affair - The Feast of the Broken Heart"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9a158a88c169bb31fea3b83f3704d1c.jpg" title="Faith No More - Angel Dust"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d0f3bafffecf42fcb53ea38c9dbed6a1.jpg" title="The Herbaliser Band - Session 2"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a21d06762b474e5ecec50916715ecfa3.png" title="Milton Nascimento & Lô Borges - Clube Da Esquina"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/efe85e4b28614817c83f4f272f4b2cb3.png" title="Hercules and Love Affair - The Feast of the Broken Heart"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f9a158a88c169bb31fea3b83f3704d1c.jpg" title="Faith No More - Angel Dust"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/71f9af7255884e2ea89fbaaf759f1962.jpg" title="Hercules and Love Affair - Hercules And Love Affair"> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
