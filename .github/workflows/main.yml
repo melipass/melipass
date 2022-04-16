@@ -15,6 +15,7 @@ jobs:
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
+          INCLUDE_LINK: true
       - name: commit changes
         continue-on-error: true
         run: |
