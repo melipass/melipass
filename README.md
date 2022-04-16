@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/efe85e4b28614817c83f4f272f4b2cb3.png" title="Hercules and Love Affair - The Feast of the Broken Heart"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/3982bfa03e1e9b6ddc34ed3cd62a7906.jpg" title="Hercules and Love Affair - Omnion"> </p>
+<p align="center"><a href="https://www.last.fm/music/Hercules+and+Love+Affair/The+Feast+of+the+Broken+Heart"><img src="https://lastfm.freetls.fastly.net/i/u/64s/efe85e4b28614817c83f4f272f4b2cb3.png" title="Hercules and Love Affair - The Feast of the Broken Heart"></a> <a href="https://www.last.fm/music/Hercules+and+Love+Affair/Omnion"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3982bfa03e1e9b6ddc34ed3cd62a7906.jpg" title="Hercules and Love Affair - Omnion"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
