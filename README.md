@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Electrodom%C3%A9sticos/La+Nueva+Canci%C3%B3n+Chilena"><img src="https://lastfm.freetls.fastly.net/i/u/64s/7c26a4ab70cf4acbaa9f78638862c53f.jpg" title="Electrodomésticos - La Nueva Canción Chilena"></a> </p>
+<p align="center"></p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
