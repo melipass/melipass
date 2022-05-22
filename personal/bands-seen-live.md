@@ -22,6 +22,7 @@
 - Christina Rosenvinge 
 - Cigarettes After Sex
 - Círculo Polar
+- Cola de Zorro
 - Com Truise
 - Courtney Barnett
 - Crystal Castles
@@ -37,6 +38,7 @@
 - Electrodomésticos
 ### F
 - Fármacos
+- Fin del Mundo
 - Flor de Rap
 - Föllakzoid
 - Foo Fighters
