@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Charles+Mingus/Mingus+Ah+Um"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bb95a707719645438c999b700d4d1633.png" title="Charles Mingus - Mingus Ah Um"></a> <a href="https://www.last.fm/music/Hildur+Gu%C3%B0nad%C3%B3ttir/Leyf%C3%B0u+Lj%C3%B3sinu"><img src="https://lastfm.freetls.fastly.net/i/u/64s/dbbbd80190a9814a00c30673ccfa233e.jpg" title="Hildur Guðnadóttir - Leyfðu Ljósinu"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Hildur+Gu%C3%B0nad%C3%B3ttir/Mount+A"><img src="https://lastfm.freetls.fastly.net/i/u/64s/77aa9e4785558d5c6111063fa06ab98c.jpg" title="Hildur Guðnadóttir - Mount A"></a> <a href="https://www.last.fm/music/Charles+Mingus/Mingus+Ah+Um"><img src="https://lastfm.freetls.fastly.net/i/u/64s/bb95a707719645438c999b700d4d1633.png" title="Charles Mingus - Mingus Ah Um"></a> <a href="https://www.last.fm/music/Kate+Bush/Hounds+of+Love"><img src="https://lastfm.freetls.fastly.net/i/u/64s/391be121643ab50801b7955b0ac5b50c.png" title="Kate Bush - Hounds of Love"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
