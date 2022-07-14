@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/The+Horrors/Skying"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1701ff3277f94c22b1405948bb341052.jpg" title="The Horrors - Skying"></a> <a href="https://www.last.fm/music/The+Horrors/Strange+House"><img src="https://lastfm.freetls.fastly.net/i/u/64s/79d7f5d9e656452badd53b46ca48e1ad.png" title="The Horrors - Strange House"></a> </p>
+<p align="center"></p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
