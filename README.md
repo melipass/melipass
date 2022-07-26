@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Hot+Chip/Made+in+the+Dark"><img src="https://lastfm.freetls.fastly.net/i/u/64s/10de6f4ea0f640a9af8cff489b1d131e.png" title="Hot Chip - Made in the Dark"></a> <a href="https://www.last.fm/music/Hot+Chip/One+Life+Stand"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eb6d150b390c728181d83e12cd8fe5a1.png" title="Hot Chip - One Life Stand"></a> <a href="https://www.last.fm/music/Hot+Chip/The+Warning"><img src="https://lastfm.freetls.fastly.net/i/u/64s/28fdedb681de4d7790ff03127c72ae85.png" title="Hot Chip - The Warning"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Hot+Chip/One+Life+Stand"><img src="https://lastfm.freetls.fastly.net/i/u/64s/eb6d150b390c728181d83e12cd8fe5a1.png" title="Hot Chip - One Life Stand"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
