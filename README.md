@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Hot+Chip/A+Bath+Full+of+Ecstasy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/85e41eaa5698a41f152071b47c7cd0a8.jpg" title="Hot Chip - A Bath Full of Ecstasy"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Hugh+Laurie/Let+Them+Talk"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cdc2574573f148dd901edf316b18221d.png" title="Hugh Laurie - Let Them Talk"></a> <a href="https://www.last.fm/music/Hot+Chip/A+Bath+Full+of+Ecstasy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/85e41eaa5698a41f152071b47c7cd0a8.jpg" title="Hot Chip - A Bath Full of Ecstasy"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
