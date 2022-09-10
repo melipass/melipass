@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/The+Herbaliser/Remedies"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5071b7d71a38479d9e37fb0630af8d41.png" title="The Herbaliser - Remedies"></a> <a href="https://www.last.fm/music/Ida+Maria/Katla"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9f79eb3825685bc417fb97474cd53edc.png" title="Ida Maria - Katla"></a> </p>
+<p align="center"></p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
