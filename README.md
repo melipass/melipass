@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/The+Herbaliser/Blow+Your+Headphones"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c52e24f1936e63c4a5bdd9747e7249d8.jpg" title="The Herbaliser - Blow Your Headphones"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/The+Herbaliser/Blow+Your+Headphones"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c52e24f1936e63c4a5bdd9747e7249d8.jpg" title="The Herbaliser - Blow Your Headphones"></a> <a href="https://www.last.fm/music/The+Herbaliser/Very+Mercenary"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c0f9d3ec8ef14b69cbd3f6ad5cfc7ebe.jpg" title="The Herbaliser - Very Mercenary"></a> <a href="https://www.last.fm/music/The+Herbaliser/Something+Wicked+This+Way+Comes"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a543dd4fd89e42d4c22f067325ff742e.jpg" title="The Herbaliser - Something Wicked This Way Comes"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
