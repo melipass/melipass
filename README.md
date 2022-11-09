@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Fimber+Bravo/Lunar+Tredd"><img src="https://lastfm.freetls.fastly.net/i/u/64s/993ba2549ffc22b4f25df935c024a851.jpg" title="Fimber Bravo - Lunar Tredd"></a> <a href="https://www.last.fm/music/Fimber+Bravo/Con-Fusion"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f47606e4df82bf582c65a00418fa01d8.jpg" title="Fimber Bravo - Con-Fusion"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
