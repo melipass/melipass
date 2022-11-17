@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Mitski/Be+the+Cowboy"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a9b9c68a6ecb979e1ac95e28bb28e06b.png" title="Mitski - Be the Cowboy"></a> <a href="https://www.last.fm/music/Lizzo/Lizzobangers"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fe9aadadb1434dcb8441820b1a3c6b28.jpg" title="Lizzo - Lizzobangers"></a> <a href="https://www.last.fm/music/Fall+Out+Boy/Save+Rock+and+Roll"><img src="https://lastfm.freetls.fastly.net/i/u/64s/9df53662061e4f30924723d65b42935c.png" title="Fall Out Boy - Save Rock and Roll"></a> <a href="https://www.last.fm/music/Fimber+Bravo/Lunar+Tredd"><img src="https://lastfm.freetls.fastly.net/i/u/64s/993ba2549ffc22b4f25df935c024a851.jpg" title="Fimber Bravo - Lunar Tredd"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
