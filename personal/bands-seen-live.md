@@ -6,24 +6,33 @@
 - Adelaida
 - Alessia Cara
 - Alexisonfire
+- Amarga Marga
 - Ana Tijoux
+- Arca
+- Arctic Monkeys
 - Asamblea Internacional del Fuego
 - Ashnikko
 - Astro
-- Amarga Marga
+- Atom™
 ### B
 - Barbacius
 - BBS Paranoicos
 - Beach Fossils
+- Beach House
+- Björk
 - Bronko Yotte
 ### C
 - Camila Moreno
+- Cat Power
 - Ceaese
+- Chai
+- Charli XCX
 - Christina Rosenvinge 
 - Cigarettes After Sex
 - Círculo Polar
 - Cola de Zorro
 - Com Truise
+- Congelador
 - Courtney Barnett
 - Crystal Castles
 ### D
@@ -39,6 +48,7 @@
 ### F
 - Fármacos
 - Fin del Mundo
+- Fiskales Ad-Hok
 - Flor de Rap
 - Föllakzoid
 - Foo Fighters
@@ -49,10 +59,15 @@
 - Holy Wave
 ### I
 - Illapu
+- Interpol
+- Inti-Illimani
 - Inverness
 ### J
+- Jack White
+- Japanese Breakfast
 - Javiera Mena
 - Javiera y Los Imposibles
+- Jessie Ware
 - José González
 - Juana Fe
 - Juana Molina
@@ -68,6 +83,7 @@
 - Las Indetectables
 - Lee Ranaldo
 - Lindstrøm
+- Lorde
 - Los Barbara Blade
 - Los Jaivas
 - Los Valentina
@@ -82,17 +98,20 @@
 - Metz
 - Miley Cyrus
 - Miss Garrison
+- Mitski
 ### N
 - Nano Stern
 - Niño Cohete
 - Niños del Cerro
 - Noah Blanco
+- Noster
 ### O
 - Omar Souleyman
 - O.R.k.
 ### P
 - Paracaidistas
 - Pirámides
+- Pixies
 - Planeta No
 - Planetario
 - Playa Gótica
@@ -103,6 +122,7 @@
 ### R
 - Rubio
 ### S
+- Shygirl
 - Sistemas Inestables
 - Slowdive
 - Swans
