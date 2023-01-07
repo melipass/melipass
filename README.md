@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Casiopea/Casiopea"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8c2442a3969afcf4aef5681d31de7909.jpg" title="Casiopea - Casiopea"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/amo"><img src="https://lastfm.freetls.fastly.net/i/u/64s/98ac0125284c3de2af1c0a6a1ddf301f.jpg" title="Bring Me the Horizon - amo"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Bad+Bunny/X+100PRE"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e220bd192e63a48e6fddda59f3fc7662.jpg" title="Bad Bunny - X 100PRE"></a> <a href="https://www.last.fm/music/Casiopea/Casiopea"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8c2442a3969afcf4aef5681d31de7909.jpg" title="Casiopea - Casiopea"></a> <a href="https://www.last.fm/music/Bad+Bunny/Un+Verano+Sin+Ti"><img src="https://lastfm.freetls.fastly.net/i/u/64s/3fc1caf14abbd6d7e3853e4fb4dfa3be.jpg" title="Bad Bunny - Un Verano Sin Ti"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/amo"><img src="https://lastfm.freetls.fastly.net/i/u/64s/98ac0125284c3de2af1c0a6a1ddf301f.jpg" title="Bring Me the Horizon - amo"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
