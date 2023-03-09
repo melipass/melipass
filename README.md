@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Deafheaven/Infinite+Granite"><img src="https://lastfm.freetls.fastly.net/i/u/64s/6f8258cdca8879915ccf7fd0043863de.jpg" title="Deafheaven - Infinite Granite"></a> <a href="https://www.last.fm/music/Deafheaven/Sunbather"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8a6a1123bb124e4890f20c956a63e734.png" title="Deafheaven - Sunbather"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
