@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/twenty+one+pilots/Regional+at+Best"><img src="https://lastfm.freetls.fastly.net/i/u/64s/20a1fe31863658a168cccac6b419e99f.jpg" title="twenty one pilots - Regional at Best"></a> <a href="https://www.last.fm/music/twenty+one+pilots/Twenty+One+Pilots"><img src="https://lastfm.freetls.fastly.net/i/u/64s/045aaecd764e491c152b9346d6d02463.jpg" title="twenty one pilots - Twenty One Pilots"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/twenty+one+pilots/Regional+at+Best"><img src="https://lastfm.freetls.fastly.net/i/u/64s/20a1fe31863658a168cccac6b419e99f.jpg" title="twenty one pilots - Regional at Best"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
