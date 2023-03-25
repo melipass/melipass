@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/twenty+one+pilots/Regional+at+Best"><img src="https://lastfm.freetls.fastly.net/i/u/64s/20a1fe31863658a168cccac6b419e99f.jpg" title="twenty one pilots - Regional at Best"></a> <a href="https://www.last.fm/music/The+Cars/The+Cars"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a3e3bbe2194b49e2b19cfc897e36fffd.png" title="The Cars - The Cars"></a> <a href="https://www.last.fm/music/Lil+Nas+X/MONTERO"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ee83cf60fac36924e4c769515774ef8c.jpg" title="Lil Nas X - MONTERO"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Suicide+Season"><img src="https://lastfm.freetls.fastly.net/i/u/64s/594142ef2a94491fe45bc96598bf8005.jpg" title="Bring Me the Horizon - Suicide Season"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/The+Cars/The+Cars"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a3e3bbe2194b49e2b19cfc897e36fffd.png" title="The Cars - The Cars"></a> <a href="https://www.last.fm/music/Lil+Nas+X/MONTERO"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d4c04914fe4eac2ebf5363c7dad0d0c.jpg" title="Lil Nas X - MONTERO"></a> <a href="https://www.last.fm/music/Bring+Me+the+Horizon/Suicide+Season"><img src="https://lastfm.freetls.fastly.net/i/u/64s/594142ef2a94491fe45bc96598bf8005.jpg" title="Bring Me the Horizon - Suicide Season"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
