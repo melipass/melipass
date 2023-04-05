@@ -4,7 +4,9 @@
 - A Day to Remember
 - Aaron Urbina
 - Adelaida
+- Alcest
 - Alessia Cara
+- Alex Andwandter
 - Alexisonfire
 - Amarga Marga
 - Ana Tijoux
@@ -14,12 +16,15 @@
 - Ashnikko
 - Astro
 - Atom™
+- Aurora
 ### B
 - Barbacius
 - BBS Paranoicos
 - Beach Fossils
 - Beach House
+- Billie Eilish
 - Björk
+- Bring Me The Horizon
 - Bronko Yotte
 ### C
 - Camila Moreno
@@ -32,6 +37,7 @@
 - Círculo Polar
 - Cola de Zorro
 - Com Truise
+- Conan Gray
 - Congelador
 - Courtney Barnett
 - Crystal Castles
@@ -45,6 +51,7 @@
 - Edward Sharpe and the Magnetic Zeros
 - El cómodo silencio de los que hablan poco
 - Electrodomésticos
+- Elke
 ### F
 - Fármacos
 - Fin del Mundo
@@ -57,6 +64,8 @@
 - Gianluca
 ### H
 - Holy Wave
+- Hot Milk
+- Hueo y los Yatiris
 ### I
 - Illapu
 - Interpol
@@ -64,7 +73,9 @@
 - Inverness
 ### J
 - Jack White
+- Jane's Addiction
 - Japanese Breakfast
+- Javier Barría
 - Javiera Mena
 - Javiera y Los Imposibles
 - Jessie Ware
@@ -73,20 +84,24 @@
 - Juana Molina
 ### K
 - Kali Mutsa
+- Kali Uchis
 - Kimbra
 - Kinética
 - Kinder
 - Kurt Vile
 ### L
+- La Chiva Gantiva
 - La Ciencia Simple
 - La Femme
 - Las Indetectables
 - Lee Ranaldo
+- Lil Nas X
 - Lindstrøm
 - Lorde
 - Los Barbara Blade
 - Los Jaivas
 - Los Valentina
+- Loud
 ### M
 - (Me llamo) Sebastian
 - Mantarraya
@@ -99,6 +114,10 @@
 - Miley Cyrus
 - Miss Garrison
 - Mitski
+- Modena City Ramblers
+- Modest Mouse
+- Mother Mother
+- Mourners Lament
 ### N
 - Nano Stern
 - Niño Cohete
@@ -109,7 +128,10 @@
 - Omar Souleyman
 - O.R.k.
 ### P
+- Panico
 - Paracaidistas
+- Paramore
+- Pettinellis
 - Pirámides
 - Pixies
 - Planeta No
@@ -120,8 +142,10 @@
 - Princesa Alba
 ### Q
 ### R
+- Rosalía
 - Rubio
 ### S
+- Sectarian
 - Shygirl
 - Sistemas Inestables
 - Slowdive
@@ -129,6 +153,8 @@
 ### T
 - Técnicas Manuales
 - Tenemos Explosivos
+- TesseracT
+- The 1975
 - The Brian Jonestown Massacre
 - The Radio Dept.
 - The Holydrug Couple
@@ -137,12 +163,15 @@
 - Tortuganónima
 - Totó La Momposina
 - Trementina
+- Trivium
 - TU
+- Twenty One Pilots
 ### U
 ### V
 - Velódromo
 - Voodoo Power
 ### W
+- Wallows
 - Wavves
 - We Are The Grand
 ### X
