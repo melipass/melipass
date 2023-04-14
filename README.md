@@ -9,7 +9,7 @@ I'm passionate about quantum computing, cloud (native) computing, data science, 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Pierce+the+Veil/The+Jaws+Of+Life+(Extended+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d38c2ab64a6d3e435493dc50e85b68c9.jpg" title="Pierce the Veil - The Jaws Of Life (Extended Version)"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Selfish+Machines"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d23f6186a52429cc254acd176e75f4f.jpg" title="Pierce the Veil - Selfish Machines"></a> <a href="https://www.last.fm/music/Wu-Tang+Clan/Enter+the+Wu-Tang+(36+Chambers)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c95372b82e09e3b8f441bc6a89eeb9c1.jpg" title="Wu-Tang Clan - Enter the Wu-Tang (36 Chambers)"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/Pierce+the+Veil/The+Jaws+Of+Life+(Extended+Version)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/d38c2ab64a6d3e435493dc50e85b68c9.jpg" title="Pierce the Veil - The Jaws Of Life (Extended Version)"></a> <a href="https://www.last.fm/music/Pierce+the+Veil/Selfish+Machines"><img src="https://lastfm.freetls.fastly.net/i/u/64s/2d23f6186a52429cc254acd176e75f4f.jpg" title="Pierce the Veil - Selfish Machines"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
