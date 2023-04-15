@@ -47,6 +47,7 @@
 - Dënver
 - Diego Lorenzini
 - Doja Cat
+- Dua Lipa
 ### E
 - Edward Sharpe and the Magnetic Zeros
 - El cómodo silencio de los que hablan poco
@@ -85,6 +86,7 @@
 ### K
 - Kali Mutsa
 - Kali Uchis
+- Killa Reviver
 - Kimbra
 - Kinética
 - Kinder
@@ -132,6 +134,7 @@
 - Paracaidistas
 - Paramore
 - Pettinellis
+- Pierce the Veil
 - Pirámides
 - Pixies
 - Planeta No
@@ -169,6 +172,7 @@
 ### U
 ### V
 - Velódromo
+- Vickilicious
 - Voodoo Power
 ### W
 - Wallows
@@ -177,4 +181,4 @@
 ### X
 ### Y
 ### Z
-- ZAT
+- ZET
