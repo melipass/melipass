@@ -10,6 +10,7 @@
 - Alexisonfire
 - Amarga Marga
 - Ana Tijoux
+- Apocalyptica
 - Arca
 - Arctic Monkeys
 - Asamblea Internacional del Fuego
@@ -80,6 +81,7 @@
 - Javiera Mena
 - Javiera y Los Imposibles
 - Jessie Ware
+- Jorge Campos Project
 - José González
 - Juana Fe
 - Juana Molina
@@ -90,6 +92,7 @@
 - Kimbra
 - Kinética
 - Kinder
+- Kraftwerk
 - Kurt Vile
 ### L
 - La Chiva Gantiva
@@ -159,8 +162,10 @@
 - TesseracT
 - The 1975
 - The Brian Jonestown Massacre
-- The Radio Dept.
 - The Holydrug Couple
+- The Mars Volta
+- The Radio Dept.
+- The Rasmus
 - The Strokes
 - This Will Destroy You
 - Tortuganónima
