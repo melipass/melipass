@@ -42,7 +42,7 @@
 - Conan Gray
 - Congelador
 - Courtney Barnett
-- Crystal Castles
+- Crystal Castles (with and without Alice Glass)
 ### D
 - Damo Suzuki
 - Deafheaven
