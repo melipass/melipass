@@ -7,7 +7,7 @@ Currently working as a Security Engineer at [Evernote](https://evernote.com/). I
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Los+Tres/La+Espada+&+la+Pared"><img src="https://lastfm.freetls.fastly.net/i/u/64s/318a8943455039ebe1ca9ec0da6ade3b.jpg" title="Los Tres - La Espada & la Pared"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
