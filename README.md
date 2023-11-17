@@ -7,7 +7,7 @@ Currently working as a Security Engineer at [Evernote](https://evernote.com/). I
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><a href="https://www.last.fm/music/Dua+Lipa/Future+Nostalgia"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1161cddbec4826e5c7d10ba3567d6ddd.png" title="Dua Lipa - Future Nostalgia"></a> <a href="https://www.last.fm/music/Los+Tres/Fome"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1b525028459bbadd64c3b2d95d3b613a.jpg" title="Los Tres - Fome"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
