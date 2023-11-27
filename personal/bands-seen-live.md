@@ -19,6 +19,7 @@
 - Atom™
 - Aurora
 ### B
+- Babasónicos
 - BADBADNOTGOOD
 - Barbacius
 - BBS Paranoicos
@@ -26,6 +27,7 @@
 - Beach House
 - Billie Eilish
 - Björk
+- Blur
 - Bring Me The Horizon
 - Bronko Yotte
 ### C
@@ -59,6 +61,7 @@
 - Fármacos
 - Fin del Mundo
 - Fiskales Ad-Hok
+- FKJ
 - Flor de Rap
 - Föllakzoid
 - Foo Fighters
@@ -122,6 +125,7 @@
 - Mitski
 - Modena City Ramblers
 - Modest Mouse
+- Molchat Doma
 - Mother Mother
 - Mourners Lament
 ### N
@@ -147,9 +151,11 @@
 - Polimá Westcoast
 - Primal Scream
 - Princesa Alba
+- Pulp
 ### Q
 ### R
 - Rosalía
+- Róisín Murphy
 - Rubio
 ### S
 - Sectarian
@@ -162,6 +168,7 @@
 - Tenemos Explosivos
 - TesseracT
 - The 1975
+- The Blessed Madonna
 - The Brian Jonestown Massacre
 - The Holydrug Couple
 - The Mars Volta
@@ -182,8 +189,11 @@
 - Voodoo Power
 ### W
 - Wallows
+- Warpaint
 - Wavves
 - We Are The Grand
+- Weyes Blood
+- WhoMadeWho
 ### X
 ### Y
 ### Z
