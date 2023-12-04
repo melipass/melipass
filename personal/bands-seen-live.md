@@ -89,6 +89,7 @@
 - José González
 - Juana Fe
 - Juana Molina
+- Just Mustard
 ### K
 - Kali Mutsa
 - Kali Uchis
@@ -119,6 +120,7 @@
 - Marina ~~& the Diamonds~~
 - Medio Hermano
 - Meridiano de Zürich
+- Metric
 - Metz
 - Miley Cyrus
 - Miss Garrison
@@ -141,6 +143,7 @@
 - Panico
 - Paracaidistas
 - Paramore
+- Pet Shop Boys
 - Pettinellis
 - Pierce the Veil
 - Pirámides
@@ -170,6 +173,7 @@
 - The 1975
 - The Blessed Madonna
 - The Brian Jonestown Massacre
+- The Cure
 - The Holydrug Couple
 - The Mars Volta
 - The Radio Dept.
