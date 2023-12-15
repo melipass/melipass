@@ -7,7 +7,7 @@ Currently working as a Security Engineer at [Evernote](https://evernote.com/). I
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/You+Me+at+Six/Truth+Decay"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f8fec07e16c4b7c59c62857bd651cf87.jpg" title="You Me at Six - Truth Decay"></a> <a href="https://www.last.fm/music/You+Me+at+Six/Hold+Me+Down"><img src="https://lastfm.freetls.fastly.net/i/u/64s/cf83154cefb0416c9c676044017fa8eb.jpg" title="You Me at Six - Hold Me Down"></a> <a href="https://www.last.fm/music/You+Me+at+Six/SUCKAPUNCH"><img src="https://lastfm.freetls.fastly.net/i/u/64s/5d0e02d8fd60650ad5c5bf634de78c07.jpg" title="You Me at Six - SUCKAPUNCH"></a> <a href="https://www.last.fm/music/You+Me+at+Six/Sinners+Never+Sleep"><img src="https://lastfm.freetls.fastly.net/i/u/64s/238a5cc0d29541fa91ce8fd415480d6b.png" title="You Me at Six - Sinners Never Sleep"></a> </p>
+<p align="center"></p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
