@@ -1,5 +1,7 @@
 # Bands I've seen live
 
+### 0-9
+- 31 Minutos
 ### A
 - A Day to Remember
 - Aaron Urbina
