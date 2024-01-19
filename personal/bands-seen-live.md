@@ -39,6 +39,7 @@
 - Christina Rosenvinge 
 - Cigarettes After Sex
 - Círculo Polar
+- Claudio Rubio Quinteto
 - Cola de Zorro
 - Com Truise
 - Conan Gray
