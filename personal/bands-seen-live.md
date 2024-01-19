@@ -28,6 +28,7 @@
 - BBS Paranoicos
 - Beach Fossils
 - Beach House
+- Beck
 - Billie Eilish
 - Björk
 - Blur
