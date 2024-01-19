@@ -1,6 +1,7 @@
 # Bands I've seen live
 
 ### 0-9
+- 1000 Ánimas
 - 31 Minutos
 ### A
 - A Day to Remember
@@ -68,10 +69,12 @@
 - Flor de Rap
 - Föllakzoid
 - Foo Fighters
+- Fukitsu
 ### G
 - Gepe
 - Gianluca
 ### H
+- Halahache
 - Holy Wave
 - Hot Milk
 - Hueo y los Yatiris
