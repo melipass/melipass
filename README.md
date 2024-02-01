@@ -1,7 +1,7 @@
 # Hola ✨
-Hi! My name is Melissa, my pronouns are she/her or they/them, and I'm a Computer Science and Engineering student from Santiago, Chile. I'm fluent in Spanish and English, and I'm also able to read Portuguese and Català.
+Hi! My name is Melissa, my pronouns are she/her or they/them, and I'm a Computer Engineer from Santiago, Chile. I'm fluent in Spanish and English, and understand Italian, Portuguese and Català at different levels.
 
-Currently working as a Security Engineer at [Evernote](https://evernote.com/). In the past, I was part of Universidad Mayor's [Quantum Computing research group](https://www.diariomayor.cl/ciencia-um/docentes-y-estudiantes-crean-el-primer-grupo-de-computacion-cuantica-u-mayor.html), I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](https://github.com/walmartdigital/), and also worked on High Performance Computing for Quantum Physics at the [Herrera Lab](http://fherreralab.com/).
+Currently working as a Security and Privacy Engineer at [Bending Spoons](https://bendingspoons.com/). Previously working as a Security Engineer at [Evernote](https://evernote.com/). In the past, I was part of Universidad Mayor's [Quantum Computing research group](https://www.diariomayor.cl/ciencia-um/docentes-y-estudiantes-crean-el-primer-grupo-de-computacion-cuantica-u-mayor.html), I've worked as a Data Engineering and Data Science Intern at [Walmart Chile](https://github.com/walmartdigital/), and also worked on High Performance Computing for Quantum Physics at the [Herrera Lab](http://fherreralab.com/).
 
 <img src="hr.png" width="100%" height="5px">
 
