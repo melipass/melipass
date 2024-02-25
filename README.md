@@ -7,7 +7,7 @@ Currently working as a Security and Privacy Engineer at [Bending Spoons](https:/
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/S%C3%A9rgio+Mendes/Brasileiro"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e23927b581c16f6e6b4f9ea35eb815f1.jpg" title="Sérgio Mendes - Brasileiro"></a> <a href="https://www.last.fm/music/Violeta+Parra/Recordando+a+Chile+(Una+chilena+en+Par%C3%ADs)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f555827e24b041a59c58de25bc098cd8.png" title="Violeta Parra - Recordando a Chile (Una chilena en París)"></a> <a href="https://www.last.fm/music/The+Who/A+Quick+One"><img src="https://lastfm.freetls.fastly.net/i/u/64s/05844750b0be40d997eb262d2ef6aaed.png" title="The Who - A Quick One"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/S%C3%A9rgio+Mendes/Brasileiro"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e23927b581c16f6e6b4f9ea35eb815f1.jpg" title="Sérgio Mendes - Brasileiro"></a> <a href="https://www.last.fm/music/Violeta+Parra/Recordando+a+Chile+(Una+chilena+en+Par%C3%ADs)"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f555827e24b041a59c58de25bc098cd8.png" title="Violeta Parra - Recordando a Chile (Una chilena en París)"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
