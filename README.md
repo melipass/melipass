@@ -7,7 +7,7 @@ Currently working as a Security and Privacy Engineer at [Bending Spoons](https:/
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/The+xx/xx"><img src="https://lastfm.freetls.fastly.net/i/u/64s/696d1b64cd9d44bf85aad10df414e959.png" title="The xx - xx"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/my+bloody+valentine/Loveless"><img src="https://lastfm.freetls.fastly.net/i/u/64s/510546e3b6df7504392274c528c77780.jpg" title="my bloody valentine - Loveless"></a> <a href="https://www.last.fm/music/Molchat+Doma/%D1%8D%D1%82%D0%B0%D0%B6%D0%B8"><img src="https://lastfm.freetls.fastly.net/i/u/64s/ad7772faa3029d2992b7717119d30ac7.jpg" title="Molchat Doma - этажи"></a> <a href="https://www.last.fm/music/The+xx/xx"><img src="https://lastfm.freetls.fastly.net/i/u/64s/696d1b64cd9d44bf85aad10df414e959.png" title="The xx - xx"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
