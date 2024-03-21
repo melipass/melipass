@@ -30,6 +30,7 @@
 - Beach Fossils
 - Beach House
 - Beck
+- Bikini Kill
 - Billie Eilish
 - Björk
 - Blink-182
@@ -181,6 +182,7 @@
 - Sam Smith
 - Sectarian
 - Shygirl
+- Sin Lencería
 - Sistemas Inestables
 - Slowdive
 - Swans
