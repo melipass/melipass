@@ -15,6 +15,7 @@
 - Ana Tijoux
 - Apocalyptica
 - Arca
+- Arcade Fire
 - Arctic Monkeys
 - Asamblea Internacional del Fuego
 - Ashnikko
@@ -31,6 +32,7 @@
 - Beck
 - Billie Eilish
 - Björk
+- Blink-182
 - Blur
 - Bring Me The Horizon
 - Bronko Yotte
@@ -55,6 +57,7 @@
 - Deafheaven
 - Dënver
 - Diego Lorenzini
+- Diplo
 - Doja Cat
 - Dua Lipa
 ### E
@@ -70,6 +73,7 @@
 - Flor de Rap
 - Föllakzoid
 - Foo Fighters
+- Francisca Valenzuela
 - Fukitsu
 ### G
 - Gepe
@@ -78,6 +82,7 @@
 - Halahache
 - Holy Wave
 - Hot Milk
+- Hozier
 - Hueo y los Yatiris
 ### I
 - Illapu
@@ -94,6 +99,7 @@
 - Jessie Ware
 - Jorge Campos Project
 - José González
+- José Madero
 - Juana Fe
 - Juana Molina
 - Just Mustard
@@ -104,6 +110,7 @@
 - Kimbra
 - Kinética
 - Kinder
+- King Gizzard & the Lizard Wizard
 - Kraftwerk
 - Kurt Vile
 ### L
@@ -113,10 +120,12 @@
 - Las Indetectables
 - Lee Ranaldo
 - Lil Nas X
+- Limp Bizkit
 - Lindstrøm
 - Lorde
 - Los Barbara Blade
 - Los Jaivas
+- Los Miserables
 - Los Valentina
 - Loud
 ### M
@@ -152,6 +161,7 @@
 - Paramore
 - Pet Shop Boys
 - Pettinellis
+- Phoenix
 - Pierce the Veil
 - Pirámides
 - Pixies
@@ -168,6 +178,7 @@
 - Róisín Murphy
 - Rubio
 ### S
+- Sam Smith
 - Sectarian
 - Shygirl
 - Sistemas Inestables
@@ -181,11 +192,14 @@
 - The Blessed Madonna
 - The Brian Jonestown Massacre
 - The Cure
+- The Driver Era
 - The Holydrug Couple
 - The Mars Volta
+- The Offspring
 - The Radio Dept.
 - The Rasmus
 - The Strokes
+- Thirty Seconds to Mars
 - This Will Destroy You
 - Tortuganónima
 - Totó La Momposina
