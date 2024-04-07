@@ -7,7 +7,7 @@ Currently working as a Security and Privacy Engineer at [Bending Spoons](https:/
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Beastie+Boys/Hello+Nasty"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a33c4a6f8d3b4571a820d7e9d47d915a.png" title="Beastie Boys - Hello Nasty"></a> <a href="https://www.last.fm/music/The+Jetzons/The+Complete+Jetzons"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b3ea7188bca573937f91e16d82d9a89b.jpg" title="The Jetzons - The Complete Jetzons"></a> </p>
+<p align="center"><a href="https://www.last.fm/music/The+Jetzons/The+Complete+Jetzons"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b3ea7188bca573937f91e16d82d9a89b.jpg" title="The Jetzons - The Complete Jetzons"></a> </p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
