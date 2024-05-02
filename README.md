@@ -7,7 +7,7 @@ Currently working as a Security and Privacy Engineer at [Bending Spoons](https:/
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/%E5%90%9B%E7%B9%8B%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96%E3%82%A8%E3%83%A0"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8aa3a82735ca4142b92efa5ea39a0a05.png" title="ASIAN KUNG-FU GENERATION - 君繋ファイブエム"></a> </p>
+<p align="center"></p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
