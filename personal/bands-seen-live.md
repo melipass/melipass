@@ -107,6 +107,7 @@
 ### K
 - Kali Mutsa
 - Kali Uchis
+- Kevin Johansen
 - Killa Reviver
 - Kimbra
 - Kinética
@@ -154,8 +155,9 @@
 - Noah Blanco
 - Noster
 ### O
-- Omar Souleyman
 - O.R.k.
+- Omar Souleyman
+- Orquesta Andina
 ### P
 - Panico
 - Paracaidistas
