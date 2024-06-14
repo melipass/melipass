@@ -7,7 +7,7 @@ My latest gig was at [Bending Spoons](https://bendingspoons.com/), working as a 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Vampire+Weekend/Vampire+Weekend"><img src="https://lastfm.freetls.fastly.net/i/u/64s/61fe67ac1045c545a57bfc81da022f91.png" title="Vampire Weekend - Vampire Weekend"></a> <a href="https://www.last.fm/music/Vampire+Weekend/Modern+Vampires+of+the+City"><img src="https://lastfm.freetls.fastly.net/i/u/64s/b16f6605f041c9e4f4aae10812c38d9a.jpg" title="Vampire Weekend - Modern Vampires of the City"></a> </p>
+<p align="center"></p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
