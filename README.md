@@ -7,7 +7,7 @@ My latest gig was at [Bending Spoons](https://bendingspoons.com/), working as a 
 
 ## 🎵 Albums I've listened the most this week
 <!-- lastfm -->
-<p align="center"><a href="https://www.last.fm/music/Elephant+Gym/Underwater"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4c5612dc7d0c57116d8f9f43d8e4a8d1.jpg" title="Elephant Gym - Underwater"></a> <a href="https://www.last.fm/music/Elephant+Gym/Dreams"><img src="https://lastfm.freetls.fastly.net/i/u/64s/503dad3223f5e95213b7db7601070cc8.jpg" title="Elephant Gym - Dreams"></a> <a href="https://www.last.fm/music/The+All-American+Rejects/The+All-American+Rejects"><img src="https://lastfm.freetls.fastly.net/i/u/64s/c9a8c357a6254c76ccbbf8c0617bd589.jpg" title="The All-American Rejects - The All-American Rejects"></a> </p>
+<p align="center"></p>
 
 <p align="center">These album covers are automatically updated from last.fm using <a href="https://github.com/marketplace/actions/lastfm-to-markdown">this GitHub Actions workflow I wrote</a>, feel free to use it.</p>
 
